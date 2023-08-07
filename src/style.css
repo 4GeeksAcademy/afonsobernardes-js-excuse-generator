@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+p {
+  font-size: 2rem;
+}
+
+img {
+  height: 300px;
+}
