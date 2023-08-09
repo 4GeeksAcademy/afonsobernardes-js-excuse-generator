@@ -33,7 +33,7 @@ function generateExcuse() {
   let randomWho = whoArray[randomWhoIndex];
   let randomImage = imageArray[randomWhoIndex];
 
-  let randomAction = actionArray[MgenerateRandomIndex(actionArray)];
+  let randomAction = actionArray[generateRandomIndex(actionArray)];
   let randomWhat = whatArray[generateRandomIndex(whatArray)];
   let randomWhen = whenArray[generateRandomIndex(whenArray)];
 
